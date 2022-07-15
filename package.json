@@ -1,0 +1,16 @@
+{
+  "name": "cli_database",
+  "version": "1.0.0",
+  "description": "cli database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commmander": "^0.0.1-security",
+    "inquirer": "^9.0.1",
+    "mongoose": "^6.4.4"
+  }
+}
